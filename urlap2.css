@@ -1,0 +1,37 @@
+#hatter {
+    background-color: #E5E5E5;
+    width: 600px;
+    height: 500px;
+}
+body {
+    font-family: arial;
+}
+h2 {
+    font-weight: lighter;
+    font-size: 25px;
+}
+label {
+
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+.radio {
+    padding-left: 0;
+    padding-right: 0;
+}
+input[type=text],[type=email], [type=tel]{
+    width: 60%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    resize: vertical;
+}
+#tele {
+    padding: 11px;
+    border: 1px solid #ccc;
+}
+#leir {
+    padding: 12px;
+    border: 1px solid #ccc;
+    width: 60%;
+    resize: vertical;
+}
